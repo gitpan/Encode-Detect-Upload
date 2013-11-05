@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Encode-Detect-Upload
-version:            0.01
+version:            0.02
 abstract:           Attempt to guess user's locale encoding from IP,
 author:
     - Lyle Hopkins <webmaster@cosmicperl.com>
