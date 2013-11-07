@@ -7,3 +7,6 @@ Revision history for Encode-Detect-Upload
         Fixed test failures generated on newer Perls and availability
         of Mozzila lib.
         Added Peter Haworth to Authors as thanks for his code review.
+
+0.03    2013/11/07
+        Added Test:: module dependencies.
