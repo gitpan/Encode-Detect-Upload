@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Encode-Detect-Upload
-version:            0.03
+version:            0.04
 abstract:           Attempt to guess user's locale encoding from IP,
 author:
     - Lyle Hopkins <webmaster@cosmicperl.com>
@@ -11,6 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
+    Encode:            0
     Test::Exception:   0
     Test::More:        0
     Test::NoWarnings:  0

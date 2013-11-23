@@ -10,3 +10,6 @@ Revision history for Encode-Detect-Upload
 
 0.03    2013/11/07
         Added Test:: module dependencies.
+
+0.04    2013/11/23
+        Added Encode module dependency for early Perl 5.6 versions.

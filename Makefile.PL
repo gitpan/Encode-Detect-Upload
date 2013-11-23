@@ -16,6 +16,7 @@ WriteMakefile(
         'Test::More'        => 0,
         'Test::Exception'	=> 0,
         'Test::NoWarnings'	=> 0,
+        'Encode'	        => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Encode-Detect-Upload-*' },
